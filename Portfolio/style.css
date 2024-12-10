@@ -350,6 +350,20 @@ section h2 {
   background-color: #2575fc;
 }
 
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #2575fc;
+  color: white;
+  margin-top: 3rem;
+}
+
+footer p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+}
+
 /* Animations */
 @keyframes fadeIn {
   from {
